@@ -66,7 +66,7 @@ if (isset($id))
 
 ?>
 <br><center>
-<form action="poke.php" class="panel" method="post">
+<form action="index.php" class="panel" method="post">
   Youtube Address: <input type="text" name="id"><br>
   <input type="submit" value="Submit">
 </form>
